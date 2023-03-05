@@ -38,7 +38,7 @@ header a {
 
 .container {
   max-width: 768px;
-  margin: auto;
+  margin-left: 40px;
   overflow: auto;
   padding: 0 10px;
 }
@@ -75,6 +75,8 @@ header a {
   grid-template-columns: repeat(2, 1fr);
   gap: 30px;
   margin-top: 30px;
+  margin-right: 40px;
+  margin-left: 40px;
 }
 
 .card {
